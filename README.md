@@ -1,16 +1,32 @@
-### Hi there 👋
+Hi there I'm Ashley 👋
+Im a programmer and machine learning enthusiast. I love everything A.I. and emerging tech.
 
-<!--
-**ashthedash2k/ashthedash2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages I work with:
+💫 Python (most familiar with)
+💫 C++ 
 
-Here are some ideas to get you started:
+Languages I am currently learning:
+💫 Javascript 
+💫 Matlab
+💫 C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Libraries I am familiar with:
+💫 PyTorch
+💫 Tensorflow (keras)
+💫 Sklearn
+💫 numpy 
+💫 open cv
+💫 matplotlib
+💫 pandas
+
+Libraries I am currently learning:
+💫 Sktime 
+💫 flask
+
+Where you can reach me:
+linkedin --> 
+email --> ashleyy.czumak@gmail.com
+github username --> ashthedash2k
+
+PERSONAL WEBSITE COMING SOON!!
+Check out my medium articles on my projects, science, and emerging tech --> https://ashleyy-czumak.medium.com/
