@@ -9,10 +9,7 @@ Im a programmer and machine learning enthusiast. I love everything A.I. and emer
 
 💫 Libraries I am currently learning --> Sktime, flask
 
-💫 Where you can reach me:
-linkedin --> 
-email --> ashleyy.czumak@gmail.com
-github username --> ashthedash2k
+💫 Where you can reach me --> linkedin: www.linkedin.com/in/ashleycz, email: ashleyy.czumak@gmail.com, github username: ashthedash2k
 
 PERSONAL WEBSITE COMING SOON!!
 Check out my medium articles on my projects, science, and emerging tech --> https://ashleyy-czumak.medium.com/
