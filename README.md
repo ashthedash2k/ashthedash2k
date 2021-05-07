@@ -1,7 +1,7 @@
 Hi there I'm Ashley 👋
 Im a programmer and machine learning enthusiast. I love everything A.I. and emerging tech.
 
-💫 Languages I work with --> Python (most familiar with), C++ 
+💫 Languages I work with --> Python (most familiar with), C++, and R
 
 💫 Languages I am currently learning --> Javascript, Matlab, C#
 
