@@ -6,8 +6,3 @@ Im a programmer and machine learning enthusiast. I love everything A.I. and emer
 💫 Libraries I am familiar with --> PyTorch, Tensorflow (keras), Sklearn, numpy, open cv, matplotlib, pandas
 
 💫 Libraries I am currently learning --> Sktime, flask
-
-💫 Email: ashleyy.czumak@gmail.com, github username: ashthedash2k
-
-PERSONAL WEBSITE COMING SOON!!
-Check out my medium articles on my projects, science, and emerging tech --> https://ashleyy-czumak.medium.com/
