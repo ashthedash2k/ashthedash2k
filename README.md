@@ -4,15 +4,15 @@
 [![Email Badge](https://img.shields.io/badge/-email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@example.com)](mailto:aczumak@andrew.cmu.edu)
 
 ## Currently :D
-✨ student @ cmu studying cs! Interested in learning more about computer systems
+✨ student @ cmu studying cs! Interested in learning more about computer systems<br>
 
 ## Skills
-✨ languages: Python, C, C++, x86 assembly
-✨ libraries: tensorflow (keras), pytorch, numpy, pandas
+✨ languages: Python, C, C++, x86 assembly<br>
+✨ libraries: tensorflow (keras), pytorch, numpy, pandas<br>
 
 ## What I'm looking for
-✨ internship opportunities!
-✨ interesting research papers about emerging tech :D
-✨ mentors who have gone through a bachelors in cs and are currently working in private research or software enginneering
+✨ internship opportunities!<br>
+✨ interesting research papers about emerging tech :D<br>
+✨ mentors who have gone through a bachelors in cs and are currently working in private research or software enginneering<br>
 
 
