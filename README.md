@@ -3,6 +3,16 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=LINK_TO_YOUR_MEDIUM_PROFILE)](https://medium.com/@ashleyycz)
 [![Email Badge](https://img.shields.io/badge/-email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@example.com)](mailto:aczumak@andrew.cmu.edu)
 
-## Now
+## Currently :D
+✨ student @ cmu studying cs! Interested in learning more about computer systems
 
-## Previously
+## Skills
+✨ languages: Python, C, C++, x86 assembly
+✨ libraries: tensorflow (keras), pytorch, numpy, pandas
+
+## What I'm looking for
+✨ internship opportunities!
+✨ interesting research papers about emerging tech :D
+✨ mentors who have gone through a bachelors in cs and are currently working in private research or software enginneering
+
+
