@@ -13,6 +13,8 @@
 ## What I'm looking for
 ✨ internship opportunities!<br>
 ✨ interesting research papers about emerging tech :D<br>
-✨ mentors who have gone through a bachelors in cs and are currently working in private research or software enginneering<br>
+✨ mentors who have are working private research or software enginneering. Also interested in people who have achieved things in SWE/reseach with unconventional backgrounds, I definitely could learn a lot from that<br>
+
+## <3 
 
 
