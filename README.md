@@ -17,6 +17,6 @@
 ✨ mentors who have are working private research or software enginneering. Also interested in people who have achieved things in SWE/reseach with unconventional backgrounds, I definitely could learn a lot from that<br>
 
 ## <3 
-Thanks for stopping by! If you need anything (resume, other info, questions, etc) please don't hesitate to email me:)
+Thanks for stopping by! If you need anything (resume, other info, questions, etc) please don't hesitate to email me:) <br>
 Ashley ❤️ 
 
