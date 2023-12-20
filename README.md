@@ -3,6 +3,6 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=LINK_TO_YOUR_MEDIUM_PROFILE)](https://medium.com/@ashleyycz)
 [![Email Badge](https://img.shields.io/badge/-email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@example.com)](mailto:aczumak@andrew.cmu.edu)
 
-##Now
+## Now
 
-##Previously
+## Previously
