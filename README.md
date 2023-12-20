@@ -11,10 +11,12 @@
 ✨ libraries: tensorflow (keras), pytorch, numpy, pandas<br>
 
 ## What I'm looking for
+✨ ideas for medium articles 
 ✨ internship opportunities!<br>
 ✨ interesting research papers about emerging tech :D<br>
 ✨ mentors who have are working private research or software enginneering. Also interested in people who have achieved things in SWE/reseach with unconventional backgrounds, I definitely could learn a lot from that<br>
 
 ## <3 
-
+Thanks for stopping by! If you need anything (resume, other info, questions, etc) please don't hesitate to email me:)
+- Ashley ❤️ 
 
