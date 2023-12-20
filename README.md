@@ -18,5 +18,5 @@
 
 ## <3 
 Thanks for stopping by! If you need anything (resume, other info, questions, etc) please don't hesitate to email me:)
-- Ashley ❤️ 
+Ashley ❤️ 
 
