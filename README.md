@@ -8,7 +8,6 @@
 
 ## Skills
 ✨ languages: Python, C, C++, x86 assembly<br>
-✨ libraries: Tensorflow (Keras), Pytorch, numpy, pandas<br>
 ✨ relevant coursework: python programming, data structures, intro to computer systems
 
 ## What I'm looking for
