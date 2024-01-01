@@ -6,6 +6,8 @@
 ## Currently :D
 ✨ student @ cmu studying cs! Interested in learning more about computer systems<br>
 ✨ working on my python compiler!<br>
+✨ interested in rust 🦀 
+
 
 ## Skills
 ✨ languages: Python, C, C++, x86 assembly<br>
