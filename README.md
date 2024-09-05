@@ -4,8 +4,7 @@
 [![Email Badge](https://img.shields.io/badge/-email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@example.com)](mailto:aczumak@andrew.cmu.edu)
 
 ## Currently :D
-✨ student @ cmu studying cs! Interested in learning more about computer systems<br>
-✨ working on my compiler!<br>
+✨ student @ cmu studying cs! <br>
 
 ## Skills
 ✨ languages: Python, C, C++, x86 assembly<br>
