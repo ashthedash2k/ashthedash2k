@@ -8,7 +8,7 @@
 
 ## Skills
 ✨ languages: Python, C, C++, x86 assembly<br>
-✨ relevant coursework: python programming, data structures, intro to computer systems
+✨ relevant coursework: python programming, parallel and sequential data structures and algorithms, intro to computer systems, functional programming, 
 
 ## What I'm looking for
 ✨ ideas for medium articles <br>
