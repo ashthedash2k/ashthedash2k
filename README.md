@@ -4,11 +4,11 @@
 [![Email Badge](https://img.shields.io/badge/-email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@example.com)](mailto:aczumak@andrew.cmu.edu)
 
 ## Currently :D
-✨ student @ cmu studying cs! <br>
+✨ student @ cmu studying cs with a concentration of machine learning! <br>
 
-## Skills
+## Who I aspire to be 🥹 
 
-## What I'm looking for
+## What I am currently working on!
 
 ## <3 
 Thanks for stopping by! If you need anything (resume, other info, questions, etc) please don't hesitate to email me:) <br>
