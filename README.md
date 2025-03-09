@@ -6,9 +6,25 @@
 ## Currently :D
 ✨ student @ cmu studying cs with a concentration of machine learning! <br>
 
-## Who I aspire to be 🥹 
+## Qualities I always try to have 🥹 
+✨ having a growth mindset 
+✨ being anti fragile 
+✨ never giving up 
+✨ fail fast learn mentality
+✨ making an impact
 
 ## What I am currently working on!
+✨ building an MLP using metal's api. Working on implementing the necessary shaders and adding optimizations including parallelization, loop unrolling, SIMD vectorization, etc. 
+✨ bench marking my shaders against naive and slightly more optimzied versions 
+
+## Current interests 
+✨ Metal 
+✨ Cuda
+✨ C++
+✨ PyTorch 
+
+## Failed Projects and what they taught me 
+✨ Python compiler - I knew this was a sus project but I wanted to try implementing a super small compiler that would be very simple. learned about ASTs and improved my knowledge on x86. It was also so fascinating to explore optimizations. I think Berkley does some version of a compiler for a language close to or a subset of python, in the future I'd probably explore doing something like this. 
 
 ## <3 
 Thanks for stopping by! If you need anything (resume, other info, questions, etc) please don't hesitate to email me:) <br>
