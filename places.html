@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Places — Your Name</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Lora:ital@0;1&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css"/>
+  <style>
+    .photo-feed {
+      display: flex;
+      flex-direction: column;
+      gap: 4rem;
+      max-width: 600px;
+    }
+
+    .photo-entry img {
+      width: 100%;
+      border-radius: 10px;
+      display: block;
+    }
+
+    /* Placeholder shown until you swap in a real photo */
+    .photo-entry .placeholder {
+      width: 100%;
+      aspect-ratio: 4/3;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      font-family: 'Lora', serif;
+      font-size: 0.82rem;
+      font-style: italic;
+      color: rgba(255,255,255,0.8);
+    }
+
+    .ph-rose     { background: linear-gradient(135deg, #e8b4b8, #d08090); }
+    .ph-lavender { background: linear-gradient(135deg, #c5b8d8, #a090c0); }
+    .ph-sage     { background: linear-gradient(135deg, #a8c5b5, #70907e); }
+    .ph-peach    { background: linear-gradient(135deg, #f2c4a0, #d89060); }
+    .ph-sky      { background: linear-gradient(135deg, #b8d8f0, #7898c8); }
+
+    .photo-caption {
+      margin-top: 0.85rem;
+    }
+
+    .caption-place {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.15rem;
+      font-weight: 600;
+      color: var(--text);
+      display: block;
+    }
+
+    .caption-date {
+      font-size: 0.8rem;
+      color: var(--muted);
+      font-style: italic;
+      display: block;
+      margin-top: 0.15rem;
+    }
+
+    .caption-note {
+      font-size: 0.95rem;
+      color: var(--muted);
+      line-height: 1.75;
+      margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <nav>
+    <!-- <div>
+      <a class="site-name" href="index.html">Your Name</a>
+      <div class="site-tagline">Writing about things that matter.</div>
+    </div> -->
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="blog.html">Blog</a></li>
+      <li><a href="books.html">Books</a></li>
+      <li><a href="places.html" class="active">Places</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <h1 class="page-title">Places<span class="dot-sm"></span></h1>
+
+  <div class="photo-feed">
+
+    <!--
+      TO ADD YOUR OWN PHOTO:
+      Replace the <div class="placeholder ..."> with:
+      <img src="yourphoto.jpg" alt="Description">
+      Put your photo file in the same folder as this HTML file.
+    -->
+
+    <div class="photo-entry">
+      <div class="placeholder ph-rose">📷 swap in your photo</div>
+      <div class="photo-caption">
+        <span class="caption-place">Paris, France</span>
+        <span class="caption-date">June 2025</span>
+        <p class="caption-note">Your note about this place. What did it feel like to be there? What will you remember?</p>
+      </div>
+    </div>
+
+    <div class="photo-entry">
+      <div class="placeholder ph-sage">📷 swap in your photo</div>
+      <div class="photo-caption">
+        <span class="caption-place">Kyoto, Japan</span>
+        <span class="caption-date">November 2024</span>
+        <p class="caption-note">Your note here. Keep it as short or long as you like.</p>
+      </div>
+    </div>
+
+    <div class="photo-entry">
+      <div class="placeholder ph-lavender">📷 swap in your photo</div>
+      <div class="photo-caption">
+        <span class="caption-place">Amsterdam, Netherlands</span>
+        <span class="caption-date">June 2025</span>
+        <p class="caption-note">Your note here.</p>
+      </div>
+    </div>
+
+    <div class="photo-entry">
+      <div class="placeholder ph-peach">📷 swap in your photo</div>
+      <div class="photo-caption">
+        <span class="caption-place">New York, USA</span>
+        <span class="caption-date">March 2025</span>
+        <p class="caption-note">Your note here.</p>
+      </div>
+    </div>
+
+    <div class="photo-entry">
+      <div class="placeholder ph-sky">📷 swap in your photo</div>
+      <div class="photo-caption">
+        <span class="caption-place">Vancouver, Canada</span>
+        <span class="caption-date">August 2024</span>
+        <p class="caption-note">Your note here.</p>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<footer>
+  © 2026 <a href="index.html">Your Name</a> · made with care
+</footer>
+
+</body>
+</html>
